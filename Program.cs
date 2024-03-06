@@ -12,7 +12,7 @@ class App
 
 
         //var _student = await client.GetStudentAsync(2);
-        var _students = await client.GetAllStudentsAsync();
+        //var _students = await client.GetAllStudentsAsync();
         //var _feedback = await client.CreateAsync(student);
 
         Console.WriteLine("\n");
